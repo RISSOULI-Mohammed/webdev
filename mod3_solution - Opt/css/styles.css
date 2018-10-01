@@ -1,0 +1,18 @@
+.navbar {
+    background: #917070;
+}
+.navbar-brand h1 { /* Restaurant name */
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+    color: #c5c5d6;
+  }
+
+  #nav-list {
+    background: #f47070;
+    text-align: center;
+  }
+
+  .menu-text {
+      background: #7f7f50;
+  }
